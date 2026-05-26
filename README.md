@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/brmnl/brmnl/main/img/github-header.png "Header")]()
+[![Header](https://raw.githubusercontent.com/brmnl/brmnl/refs/heads/main/img/github-header.png "Header")](https://github.com/brmnl)
 
 # Hey, I'm Manuel Burki 👾
 
@@ -35,6 +35,6 @@ I build web products, application platforms and Linux-based infrastructure acros
 
 <div align="left">
 
-[![Core Skills](https://skillicons.dev/icons?i=laravel,php,astro,svelte,tailwind,vue,go,ts,js,vite,nodejs,npm,py,wordpress,css,html,htmx,nextjs,fastapi,graphql,lua,md,cloudflare,vscode,bash,anaconda,latex,neovim,vim,nginx,obsidian,postman,regex,kubernetes,docker,git,github,githubactions,gitlab,terraform,ansible,linux,arch,debian,ubuntu,redhat,apple,azure,aws,gcp,vercel,ipfs,solidity,mongodb,mysql,postgres,sqlite,supabase&perline=17&theme=dark)]()
+[![Core Skills](https://skillicons.dev/icons?i=laravel,php,astro,svelte,tailwind,vue,go,ts,js,vite,nodejs,npm,py,wordpress,css,html,htmx,nextjs,fastapi,graphql,lua,md,cloudflare,vscode,bash,anaconda,latex,neovim,vim,nginx,obsidian,postman,regex,kubernetes,docker,git,github,githubactions,gitlab,terraform,ansible,linux,arch,debian,ubuntu,redhat,apple,azure,aws,gcp,vercel,ipfs,solidity,mongodb,mysql,postgres,sqlite,supabase&perline=17&theme=dark)](https://github.com/brmnl)
 
 </div>
