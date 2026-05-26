@@ -4,16 +4,16 @@
 
 <p align="left">
   <a href="https://github.com/brmnl">
-    <img src="https://img.shields.io/github/followers/brmnl?label=Follow&style=flat-square&logo=github&logoColor=111827&labelColor=F8FAFC&color=4C1D95" alt="Follow @brmnl on GitHub" />
+    <img src="https://img.shields.io/github/followers/brmnl?label=Follow&style=flat-square&logo=github&logoColor=111827&labelColor=E5E7EB&color=4C1D95" alt="Follow @brmnl on GitHub" />
   </a>
   <a href="https://brmnl.dev">
-    <img src="https://img.shields.io/badge/Link--in--Bio-F8FAFC?style=flat-square&logo=linktree&logoColor=111827" alt="Link-in-Bio" />
+    <img src="https://img.shields.io/badge/Link--in--Bio-E5E7EB?style=flat-square&logo=linktree&logoColor=111827" alt="Link-in-Bio" />
   </a>
   <a href="https://brmnl.com">
-    <img src="https://img.shields.io/badge/Website-F8FAFC?style=flat-square&logo=firefoxbrowser&logoColor=111827" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-E5E7EB?style=flat-square&logo=firefoxbrowser&logoColor=111827" alt="Website" />
   </a>
   <a href="https://www.linkedin.com/in/brmnl">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-E5E7EB?style=flat-square&logo=linkedin&logoColor=111827" alt="LinkedIn" />
   </a>
 </p>
 
